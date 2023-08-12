@@ -10,3 +10,5 @@ repository ini hanya untuk uji coba beberapa fitur dan kegunaan di github
 - saya bercita-cita punya rekening 1 triliun
 
 -tambahan fork 
+
+-make commit
